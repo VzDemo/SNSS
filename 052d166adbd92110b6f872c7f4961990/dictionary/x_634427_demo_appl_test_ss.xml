@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Test SS" max_length="40" name="x_634427_demo_appl_test_ss" type="collection">
+        <element label="Name" max_length="40" name="name" type="string"/>
+    </element>
+</database>
